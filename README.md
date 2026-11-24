@@ -4,7 +4,7 @@
 
 - 🛠️ Mostly **PHP / Laravel** on the backend and **Vue.js** on the frontend, working daily with **Docker** and **Linux**
 - 🗺️ Interactive maps and real-time tracking – Leaflet, MapLibre GL, Socket.io
-- 🌐 Worked on [eRegulacija](https://eregulacija.zgceste.hr) – a public portal for traffic regulation requests in Zagreb
+- 🌐 Worked on [eRegulacija](https://eregulacija.zgceste.hr) – a public portal for traffic regulation requests in Zagreb (~7,500 requests, 400+ admin users)
 - 🎓 Graduate engineer – Applied Software Engineering, Faculty of Technical Sciences, Novi Sad
 - 🌱 Always learning – currently exploring servers, networking and AI-assisted development
 
