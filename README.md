@@ -18,10 +18,10 @@
 
 | Project | Description |
 |---------|-------------|
-| [Hospital Information System](https://github.com/Milenko98/Baze2) | Bachelor thesis – SQL Server database design, T-SQL, WPF + Entity Framework |
-| [Heist – Agency04 assignment](https://github.com/Milenko98/Milenko_Pjaca_Agency04) | ASP.NET Core Web API + Angular |
-| [Power Distribution Work Management](https://github.com/Milenko98/PUSGS-Projekat) | Team project – Angular, ASP.NET Core, JWT and Google sign-in |
-| [Electricity Load Forecasting](https://github.com/Milenko98/Inteligenti_infrastrukturni_sistemi_projekat_2023) | Neural network in Python / Keras |
+| [Hospital Information System](https://github.com/Milenko98/hospital-information-system) | Bachelor thesis – SQL Server database design, T-SQL, WPF + Entity Framework |
+| [Heist – Agency04 assignment](https://github.com/Milenko98/heist-management-app) | ASP.NET Core Web API + Angular |
+| [Power Distribution Work Management](https://github.com/Milenko98/power-distribution-work-management) | Team project – Angular, ASP.NET Core, JWT and Google sign-in |
+| [Electricity Load Forecasting](https://github.com/Milenko98/electricity-load-forecasting) | Neural network in Python / Keras |
 
 ## Contact
 
