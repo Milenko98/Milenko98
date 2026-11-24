@@ -25,4 +25,4 @@
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/milenkopjaca-a35108220/) · milenkopjaca12@gmail.com
+[LinkedIn](https://www.linkedin.com/in/milenko-pjaca) · milenkopjaca12@gmail.com
