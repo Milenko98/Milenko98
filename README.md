@@ -1,6 +1,6 @@
 # Hi, I'm Milenko 👋
 
-**Full-stack web developer** from Zagreb, Croatia, with 4+ years of professional experience building large-scale web applications – GPS fleet tracking, road maintenance and public-services platforms.
+**Full-stack web developer** from Zagreb, Croatia, with nearly 5 years of professional experience building large-scale web applications – GPS fleet tracking, road maintenance and public-services platforms.
 
 - 🛠️ Mostly **PHP / Laravel** on the backend and **Vue.js** on the frontend, working daily with **Docker** and **Linux**
 - 🗺️ Interactive maps and real-time tracking – Leaflet, MapLibre GL, Socket.io
