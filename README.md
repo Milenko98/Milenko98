@@ -1,51 +1,46 @@
-<div align="center">
-Hi there, I'm Milenko Pjaca 👋
-Full-Stack Web Developer (PHP/Laravel & Vue.js) | Python & AI/LLM Applications
-B.Sc. in Electrical and Computer Engineering (⁠univ. bacc. ing. el.⁠)
-📍 Donja Bistra (Zagreb), Croatia
-</div>
-👨‍💻 About Me
-I am a Full-Stack Developer with nearly 5 years of professional experience building, scaling, and maintaining production web systems.
-￼ 🏢 Currently working as a Full-Stack Web Developer at Eco Mobile d.o.o., developing modular GPS fleet tracking systems (250+ companies, 10,000+ vehicles), GIS road maintenance tools, and the national eRegulacija portal.
-￼ ⚡ Experienced in leading large-scale frontend migrations (e.g., migrating a 2,500+ file SPA from Vue 2/Vuex to Vue 3/Pinia/Vite, achieving a ~20x speed improvement).
-￼ 🤖 Passionate about building AI/LLM applications, multi-step AI agents, RAG pipelines, and structured generative workflows in Python and Laravel.
-🛠️ Tech Stack
-Category
-Technologies
-Backend
-REST API
-Frontend
-Pinia Vuetify Angular React
-Databases & Vector
-MS SQL pgvector
-AI & LLM
-Claude API Gemini API Tool/Function Calling RAG Voyage AI Embeddings LLM Evaluation Structured Outputs
-DevOps & CI/CD
+# Hi, I'm Milenko Pjaca 👋
 
-Testing & Monitoring
-PHPUnit pytest Vitest Vue Test Utils Sentry Bugsnag
-GIS & Integrations
-Leaflet MapLibre GL HERE Maps Google Maps Socket.io Salesforce Magento
+**Full-Stack Web Developer (PHP / Laravel & Vue.js) | Python & AI/LLM Applications**  
+`univ. bacc. ing. el.` · Zagreb, Croatia
 
-🚀 Featured Projects
-🚛 Fleet AI Assistant — AI Fleet-Management Agent
-An intelligent natural-language assistant for fleet management operations.
-￼ Key Features: Multi-step agentic workflows using Claude API tool calling, RAG search over operational rulebooks, automated tool validation, evaluation suites, and safety guardrails.
-￼ Tech Stack: ⁠Laravel⁠ • ⁠Vue⁠ • ⁠PostgreSQL⁠ • ⁠pgvector⁠ • ⁠Claude API⁠ • ⁠Voyage AI⁠ • ⁠Docker⁠ • ⁠PHPUnit⁠ • ⁠Vitest⁠ • ⁠GitHub Actions⁠
-🎨 Brand Post Recipe — AI Generative Content Pipeline
-An automated 6-stage Python pipeline that turns a brand brief into three ready-to-publish social media posts.
-￼ Key Features: Brand analysis and content planning (Claude), custom background visual generation (Gemini), automated image composition, quality assurance (QA), and human-in-the-loop refinement.
-￼ Tech Stack: ⁠Python 3.14⁠ • ⁠FastAPI⁠ • ⁠Pydantic⁠ • ⁠Anthropic SDK⁠ • ⁠Google GenAI SDK⁠ • ⁠Pillow⁠ • ⁠Vue 3⁠ • ⁠Docker⁠ • ⁠uv⁠ • ⁠pytest⁠ • ⁠Vitest⁠
-⚡ Other Notable Work
-￼ Electricity Consumption Forecasting: Neural network prediction model built with ⁠Python⁠, ⁠Keras/TensorFlow⁠, ⁠pandas⁠, and ⁠MS SQL⁠.
-￼ Work Order & Field Crew Management: Full-stack platform built with ⁠ASP.NET Core⁠, ⁠Angular⁠, ⁠Entity Framework⁠, and ⁠JWT⁠.
-￼ Hospital Information System (B.Sc. Thesis): Desktop application developed in ⁠C#⁠, ⁠WPF (MVVM)⁠, ⁠Entity Framework⁠, and ⁠MS SQL⁠.
-📊 GitHub Stats
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Milenko98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Milenko98 GitHub Stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milenko98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Milenko98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-📫 Connect With Me
-￼ LinkedIn: linkedin.com/in/milenko-pjaca
-￼ Email: milenkopjaca12@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenko-pjaca)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Milenko98)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milenkopjaca12@gmail.com)
+
+---
+
+### 👨‍💻 About Me
+
+Full-stack developer with nearly 5 years of professional experience building and maintaining production web systems. Primarily focused on **PHP/Laravel** backends and **Vue.js** frontends, alongside **Python** and **AI/LLM** applications. Experienced with REST APIs, third-party integrations, GIS & real-time systems, large-scale SPA migrations, AI agents, RAG retrieval, and multi-stage generative pipelines.
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | PHP 8, Laravel, Python, FastAPI, REST API, MySQL, PostgreSQL, Redis, MS SQL |
+| **Frontend** | Vue 3, Pinia, Vuetify, JavaScript, TypeScript, Vite, HTML/CSS, Tailwind CSS, Angular, React |
+| **AI / LLM** | Claude API, Gemini API, Tool/Function Calling, RAG, Embeddings, `pgvector`, LLM Evaluation, Structured Outputs |
+| **DevOps** | Docker, Docker Compose, Nginx, Linux, Git, GitLab CI/CD, GitHub Actions |
+| **Testing & Monitoring** | PHPUnit, pytest, Vitest, Vue Test Utils, Sentry, Bugsnag |
+| **GIS & Integrations** | Leaflet, MapLibre GL, HERE Maps, Google Maps, Socket.io, C#, ASP.NET Core, Magento, Salesforce |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🤖 Fleet AI Assistant — *AI Fleet-Management Agent*
+Multi-step natural language AI agent for fleet management using Claude API tool calling and RAG over operational guidelines (`PostgreSQL`/`pgvector` + Voyage AI embeddings), complete with tool validation, guardrails, and evaluation suites.  
+**Stack:** `Laravel` · `Vue` · `PostgreSQL` · `pgvector` · `Claude API` · `Voyage AI` · `Docker` · `PHPUnit` · `Vitest` · `GitHub Actions`
+
+#### 🎨 Brand Post Recipe — *AI Generative Content Pipeline*
+6-stage Python pipeline transforming a brand brief into three ready-to-publish social media posts: brief analysis & planning (Claude), background visual generation (Gemini), composition, automated QA, and human-in-the-loop refinement.  
+**Stack:** `Python 3.14` · `FastAPI` · `Pydantic` · `Anthropic SDK` · `Google GenAI SDK` · `Pillow` · `Vue 3` · `Docker` · `pytest` · `Vitest`
+
+---
+
+### 💼 Experience Highlights
+
+- **Full-Stack Web Developer @ Eco Mobile d.o.o.** *(06/2023 – Present)* — Modular GPS fleet tracking & waste management platform (15 Laravel modules, 250+ companies, 10,000+ vehicles); led Vue 2 → Vue 3/Pinia/Vite migration (2,500+ files, ~20x faster load); built *eRegulacija* portal (Laravel 12, Vue 3, NIAS/SAML, DGU/HERE GIS).
+- **Full-Stack Web Developer @ ViveLaCar** *(04/2022 – 06/2023)* — Laravel middleware integrating Salesforce, Magento, and German automotive portals via REST APIs.
